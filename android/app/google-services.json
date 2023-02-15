@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "834054083200",
+    "project_id": "authmhs",
+    "storage_bucket": "authmhs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834054083200:android:9c9bb84803c5766de28c65",
+        "android_client_info": {
+          "package_name": "com.example.mhs_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834054083200-gq2s9rjd7f58jncnkudknvsm26utsbdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuxd_zPlrTuTGVT-TPFGAnhUC7RLy_2yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834054083200-gq2s9rjd7f58jncnkudknvsm26utsbdu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "834054083200-lq73mgbc1tg88iot1s9o0lk7fks1sttu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mhsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
